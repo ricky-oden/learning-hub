@@ -16,7 +16,7 @@
 
 | プロジェクトID | システム | 状態 | 正本予定 |
 |---|---|---|---|
-| `TEA-V1` | お茶製造管理 | 環境構築前 | `docs/code-reading-quiz-progress.md` |
+| `TEA-V1` | お茶製造管理 | Phase 0〜6完了、対話形式クイズ未開始 | `docs/code-reading-quiz-progress.md`（未作成） |
 | `CONSTRUCTION-V1` | 建設案件管理SaaS | 環境構築前 | `docs/code-reading-quiz-progress.md` |
 | `AI-LEARNING-V1` | 動画教育・AI学習支援 | 環境構築前 | `docs/code-reading-quiz-progress.md` |
 

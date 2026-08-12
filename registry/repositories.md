@@ -11,7 +11,7 @@
 | ID | ローカルパス | origin / branch | 現在HEAD | 計画正本commit | PLAN_VERSION / 要件数 | 現在フェーズ | worktree |
 |---|---|---|---|---|---|---|---|
 | `EC-V1` | `/Users/ricky_oden/demo/biyo_ec_full` | `https://github.com/ricky-oden/biyo_ec_full.git` / `main` | `c7437c32ab23660336fe7f2890e7bbbbeb04954e` | アプリ固有の計画正本なし。現在HEADを実装・監査の根拠として参照 | アプリ固有定義なし | 実装・監査後、コードリーディング進行中 | clean、ローカル`origin/main`と一致 |
-| `TEA-V1` | `/Users/ricky_oden/demo/tea_manufacturing_system` | `https://github.com/ricky-oden/tea-manufacturing.git` / `main` | `90b825a4dbf1e81cf7594c7253caf8c42863772c` | `90b825a4dbf1e81cf7594c7253caf8c42863772c` | `TEA-V1.0` / 19件 | Phase 0完了、Phase 1開発基盤は開始承認待ち | clean、ローカル`origin/main`と一致 |
+| `TEA-V1` | `/Users/ricky_oden/demo/tea_manufacturing_system` | `https://github.com/ricky-oden/tea-manufacturing.git` / `main` | `fec3a1c7989930986a1ff98075a0ba245453a16c` | `90b825a4dbf1e81cf7594c7253caf8c42863772c` | `TEA-V1.0` / 19件 | Phase 0〜6完了。実装・ローカル検証完了、対話形式クイズ未開始 | clean、ローカル`origin/main`と一致 |
 | `CONSTRUCTION-V1` | `/Users/ricky_oden/demo/construction_project_saas` | `https://github.com/ricky-oden/construction-saas.git` / `main` | `39dda70da23ee541249b5c02a3e4d38b16965606` | `39dda70da23ee541249b5c02a3e4d38b16965606` | `CONSTRUCTION-V1.0` / 26件 | Phase 0完了、上位計画に従いTEA-V1の基盤・代表的縦切り完了まで待機 | clean、ローカル`origin/main`と一致 |
 | `AI-LEARNING-V1` | `/Users/ricky_oden/demo/ai_video_learning` | `https://github.com/ricky-oden/ai_video_learning.git` / `main` | `21ba1ae538c02986d78d407b54f5a032a2552fcf` | `21ba1ae538c02986d78d407b54f5a032a2552fcf` | `AI-LEARNING-V1.0` / 62件 | Phase 0完了、上位計画のTEA-V1、CONSTRUCTION-V1の順番に従い待機 | clean、ローカル`origin/main`と一致 |
 
